@@ -1,6 +1,11 @@
-.PHONY: image
-image:
+.PHONY: build
+build:
 	docker build -t christiansiegel/gbdk-n-builder .
+
+.PHONY: push
+push:
+	docker login
+	docker push christiansiegel/gbdk-n-builder
 
 .PHONY: example
 example:
