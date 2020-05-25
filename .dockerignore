@@ -1,0 +1,8 @@
+*
+
+!gbdk-n/bin/*.sh
+!gbdk-n/include/
+!gbdk-n/libc/
+!gbdk-n/Makefile
+
+!builder.sh
