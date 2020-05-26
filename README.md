@@ -19,7 +19,7 @@ Useful links:
 - [examples](https://github.com/andreasjhkarlsson/gbdk-n/tree/master/examples)
 - [GBDK doc](https://github.com/andreasjhkarlsson/gbdk-n/tree/master/docs)
 
-# References
+## References
 
 - [Gameboy Development Kit (GBDK)](https://sourceforge.net/projects/gbdk/)
 - [gbdk-n](https://github.com/andreasjhkarlsson/gbdk-n)
